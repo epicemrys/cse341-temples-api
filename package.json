@@ -126,7 +126,6 @@
     "statuses": "^2.0.1",
     "strnum": "^1.1.2",
     "supports-color": "^5.5.0",
-    "swagger-autogen": "^2.23.7",
     "swagger-ui-dist": "^5.20.1",
     "swagger-ui-express": "^5.0.1",
     "to-regex-range": "^5.0.1",
@@ -145,7 +144,6 @@
     "whatwg-url": "^11.0.0",
     "wrappy": "^1.0.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -161,5 +159,8 @@
   "bugs": {
     "url": "https://github.com/epicemrys/cse341-temples-api/issues"
   },
-  "homepage": "https://github.com/epicemrys/cse341-temples-api#readme"
+  "homepage": "https://github.com/epicemrys/cse341-temples-api#readme",
+  "devDependencies": {
+    "swagger-autogen": "^2.23.7"
+  }
 }
