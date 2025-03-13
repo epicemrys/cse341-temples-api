@@ -1,7 +1,7 @@
 {
   "name": "cse341-temples-api",
   "version": "1.0.0",
-  "description": "temples api",
+  "description": "LDS Temples API",
   "main": "index.js",
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -145,12 +145,13 @@
     "whatwg-url": "^11.0.0",
     "wrappy": "^1.0.2"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epicemrys/cse341.git"
+    "url": "git+https://github.com/epicemrys/cse341-temples-api.git"
   },
   "keywords": [
     "temples"
@@ -158,7 +159,7 @@
   "author": "Charles Ukoh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/epicemrys/cse341/issues"
+    "url": "https://github.com/epicemrys/cse341-temples-api/issues"
   },
-  "homepage": "https://github.com/epicemrys/cse341#readme"
+  "homepage": "https://github.com/epicemrys/cse341-temples-api#readme"
 }
